@@ -1,0 +1,58 @@
+Lista completa de obras rescatadas
+
+Grupo 1: obras hechas en Flash
+
+“Arcoiris Paranóico” - José Aburto (2000), Perú
+“Ro(s/z)a” - José Aburto (2004), Perú
+“mal envuelto” - José Aburto (2003), Perú
+“Partidas” - José Aburto (2002), Perú
+“Poemas lanzados v2” - José Ignacio López (2006), Perú 
+“Persona” - José Ignacio López, Perú
+“Concretoons” - Benjamín Moreno (2010), México
+“NÃO!” - Eduardo Kac (1982), Brasil
+“Homenaje a Wlademir Dias-Pino” - Clemente Padín (2003), Uruguay
+“Homenaje al cuadrado” - Clemente Padín (1996), Uruguay
+“Correcaminos (aka Caminante)” - Eduardo Darino (1965-1966, 1989), Uruguay
+“Rescate” - Gabriela Golder (2012), Argentina
+“Chorro” - Iván Marino, Argentina
+“Renglones” - Iván Marino, Argentina
+“Caen” - Iván Marino, Argentina
+“Flotando” - Iván Marino, Argentina
+“sos” - Augusto de Campos (2000), Brasil
+“rever” - Augusto de Campos (1999), Brasil
+“ininstante” - Augusto de Campos (1999), Brasil
+“cidadecitycite” - Augusto de Campos (1999), Brasil
+“sem saída” - Augusto de Campos (2000), Brasil
+“bomba” - Augusto de Campos (1992,1997), Brasil
+“Malabaristas” - Ana María Uribe (2001), Argentina
+“Rumores” - Ana María Uribe (2001), Argentina
+“Columpio” - Ana María Uribe (2000), Argentina
+“Caída con suerte” - Ana María Uribe (2000), Argentina
+“Primavera” - Ana María Uribe (1999), Argentina
+“Invierno” - Ana María Uribe (1999), Argentina
+“Escalera” - Ana María Uribe (1999), Argentina
+“¿Metálico o de plástico?” - Ana María Uribe (1999), Argentina
+“Gimnasia 3” - Ana María Uribe (1998), Argentina
+“Panorama desde un tren” - Ana María Uribe (1998), Argentina
+“Centauros en manada 2” - Ana María Uribe (1998), Argentina
+
+------------------------------------------------------------------------------
+
+Grupo 2: obras restauradas a partir de sus archivos
+
+“poema virtual 12” - Ladislao Pablo Gyori (1995), Argentina
+“poema virtual 13” - Ladislao Pablo Gyori (1995), Argentina
+
+------------------------------------------------------------------------------
+
+Grupo 3: obras restauradas a partir del código fuente
+
+“UNIVERSO” - Joao Coelho (1985), Brasil 
+“Poema Infinito para Microprocesador” - Rafael Courtoisis (1988), Uruguay
+
+------------------------------------------------------------------------------
+
+Grupo 4: obras restauradas a partir de copias almacenadas en un repositorio.
+
+“valor agregado” - Oswaldo Chanove (2001), Perú
+“Poemas binarios” - Enrique Beó (2010), Perú
